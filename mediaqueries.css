@@ -23,6 +23,10 @@
   .toolproficiency-details-container {
     margin-top: 2rem;
   }
+  #skillsservices,
+  .skillsservices-details-container {
+    margin-top: 2rem;
+  }
   #profile,
   .section-container {
     display: block;
@@ -76,6 +80,9 @@
     font-size: 1rem;
   }
   .toolproficiency-sub-title {
+    font-size: 1.25rem;
+  }
+  .skillsservices-sub-title {
     font-size: 1.25rem;
   }
   .logo {
