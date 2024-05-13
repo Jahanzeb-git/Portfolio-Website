@@ -42,7 +42,7 @@ nav {
 .nav-links {
   gap: 2rem;
   list-style: none;
-  font-size: 1.5rem;
+  font-size: 1.15rem;
 }
 
 a {
@@ -459,7 +459,7 @@ article .icon {
   height: 2.5rem;
 }
 .phone-icon {
-  height: 2rem; /* Adjust the size to match the email and LinkedIn icons */
+  height: 1rem; /* Adjust the size to match the email and LinkedIn icons */
   width: auto; /* This will maintain the aspect ratio of the icon 
 }
 
