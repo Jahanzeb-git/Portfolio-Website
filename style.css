@@ -459,15 +459,20 @@ article .icon {
   height: 2.5rem;
 }
 .phone-icon {
-  height: 1rem; /* Adjust the size to match the email and LinkedIn icons */
-  width: auto; /* This will maintain the aspect ratio of the icon 
+  height: 1.4rem; 
+  width: auto;
 }
+
 
 /* FOOTER SECTION */
 
 footer {
+  width: 100%; /* Ensure the footer takes the full width */
   height: 26vh;
-  margin: 0 1rem;
+  margin: 0 auto; /* Center the footer horizontally */
+  display: flex; /* Use flexbox to center the content */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
 }
 
 footer p {
