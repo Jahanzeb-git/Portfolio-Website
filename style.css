@@ -459,7 +459,7 @@ article .icon {
   height: 2.5rem;
 }
 .phone-icon {
-  height: 2.5rem; /* Adjust the size to match the email and LinkedIn icons */
+  height: 2rem; /* Adjust the size to match the email and LinkedIn icons */
   width: auto; /* This will maintain the aspect ratio of the icon 
 }
 
