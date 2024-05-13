@@ -458,6 +458,11 @@ article .icon {
 .email-icon {
   height: 2.5rem;
 }
+.phone-icon {
+  width: 1000px;
+  height: 1000px;
+  object-fit: contain; /* This will ensure the image is scaled correctly */
+}
 
 /* FOOTER SECTION */
 
